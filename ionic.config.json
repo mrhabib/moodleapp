@@ -1,0 +1,12 @@
+{
+  "name": "moodlemobile2",
+  "integrations": {
+    "cordova": {}
+  },
+  "watchPatterns": [
+    "www/**/*.html",
+    "www/build/**/*",
+    "www/index.html",
+    "!www/lib/**/*"
+  ]
+}
