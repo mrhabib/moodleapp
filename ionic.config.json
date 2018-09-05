@@ -1,12 +1,10 @@
 {
-  "name": "moodlemobile2",
+  "name": "moodlemobile",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "gulp": {}
   },
-  "watchPatterns": [
-    "www/**/*.html",
-    "www/build/**/*",
-    "www/index.html",
-    "!www/lib/**/*"
-  ]
+  "type": "ionic-angular",
+  "watchPatterns": [],
+  "pro_id": "com.moodle.moodlemobile"
 }
