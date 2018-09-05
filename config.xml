@@ -124,5 +124,4 @@
     <plugin name="cordova-sqlite-evcore-extbuild-free" spec="~0.9.7" />
     <plugin name="cordova-plugin-badge" spec="0.8.7" />
     <preference name="SplashShowOnlyFirstTime" value="false" />
-    <plugin name="cordova-plugin-file-transfer" spec="^1.7.1" />
 </widget>
